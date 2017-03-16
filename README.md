@@ -1,2 +1,2 @@
 # hello-world
-I am dying.
+I am made of fruit.
